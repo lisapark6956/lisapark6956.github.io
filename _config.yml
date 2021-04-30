@@ -16,7 +16,7 @@
 title: CalistoJ GitBlog
 description: Coding Story
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lisapark6956.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lisapark6956.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 theme: "just-the-docs"
 
@@ -67,7 +67,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "CalistoJ gitblog":
-    - "//github.com/lisapark6956/lisapark6956.github.io"
+    - "//github.com/lisapark6956"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
