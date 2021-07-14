@@ -2,7 +2,7 @@
 layout: default
 title: markdown언어
 parent: 프로그래밍
-nav_order: 5
+nav_order: 1
 ---
 ****
 # 2. 마크다운 사용법(문법)
